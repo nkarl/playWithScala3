@@ -1,0 +1,49 @@
+
+¤src/main/scala/Main.scala*'
+_empty_/Main$package. *_empty_€*3
+!_empty_/Main$package.printInts().*	printInts€*
+local0 €*
+upperBound€*
+local1 €*scanner€*
+local2*x€*&
+_empty_/printInts# *	printInts€*/
+_empty_/printInts#`<init>`(). €@*<init>€*)
+_empty_/printInts#main(). € *main€*,
+_empty_/printInts#main().(args)*args€*
+local3 €*error€2
+ scala/io/StdIn.2
+ scala/io/StdIn#2
+ 	scala/io/2
+ scala/2 
+ java/util/Scanner.2 
+ java/util/Scanner#2
+ 
+java/util/2
+ java/2
+_empty_/Main$package.2
+ scala/main#2/
+
+ !_empty_/Main$package.printInts().2
+ scala/Unit#2#
+		 scala/Predef.print().2
+ local02
+ local12-
+ java/util/Scanner#`<init>`(+2).2 
+ java/util/Scanner#2"
+% 'java/lang/System#in.2
+ $java/lang/System#2*
+ java/util/Scanner#nextInt().2
+ local125
+ 'scala/collection/immutable/Range#map().29
+ +scala/collection/immutable/Range.apply(+1).2"
+ scala/package.Range.2
+ local02
+ local22'
+  'scala/Predef.println(+1).2 
+* +scala/Int#`+`(+4).2
+( )local22
+_empty_/printInts#2'
+_empty_/printInts#`<init>`().2+
+!_empty_/Main$package.printInts().23
+)scala/util/CommandLineParser.showError().2
+local3PZ 21A2ABC01E4F70DDFE72A5CAE5AE308F

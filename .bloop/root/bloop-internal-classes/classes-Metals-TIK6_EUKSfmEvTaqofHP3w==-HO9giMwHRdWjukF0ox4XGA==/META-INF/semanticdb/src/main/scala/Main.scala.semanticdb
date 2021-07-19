@@ -1,0 +1,32 @@
+
+ßsrc/main/scala/Main.scala*'
+_empty_/Main$package. *_empty_€*3
+!_empty_/Main$package.printInts().*	printInts€*
+local0*x€*&
+_empty_/printInts# *	printInts€*/
+_empty_/printInts#`<init>`(). €@*<init>€*)
+_empty_/printInts#main(). € *main€*,
+_empty_/printInts#main().(args)*args€*
+local1 €*error€2
+ scala/io/StdIn.2
+ scala/io/StdIn#2
+ 	scala/io/2
+ scala/2
+_empty_/Main$package.2
+ scala/main#2/
+
+ !_empty_/Main$package.printInts().2
+ scala/Unit#25
+ 'scala/collection/immutable/Range#map().29
+ +scala/collection/immutable/Range.apply(+1).2"
+ scala/package.Range.2'
+ scala/io/StdIn#readInt().2
+ scala/io/StdIn.2
+ local02'
+# *scala/Predef.println(+1).2
++ ,local02
+_empty_/printInts#2'
+_empty_/printInts#`<init>`().2+
+!_empty_/Main$package.printInts().23
+)scala/util/CommandLineParser.showError().2
+local1PZ AA8018D3BDF79DEBF7B61B1C7715A5E5

@@ -2,13 +2,13 @@
     "version": "1.4.0",
     "project": {
         "name": "root",
-        "directory": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3",
-        "workspaceDir": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3",
+        "directory": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3",
+        "workspaceDir": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3",
         "sources": [
-            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/src/main/scala",
-            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/src/main/scala-3",
-            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/src/main/java",
-            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/target/scala-3.0.1/src_managed/main"
+            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/src/main/scala",
+            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/src/main/scala-3",
+            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/src/main/java",
+            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/target/scala-3.0.1/src_managed/main"
         ],
         "dependencies": [
             
@@ -17,11 +17,11 @@
             "/home/karl/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.0.1/scala3-library_3-3.0.1.jar",
             "/home/karl/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar"
         ],
-        "out": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/.bloop/root",
-        "classesDir": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/.bloop/root/scala-3/classes",
+        "out": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/.bloop/root",
+        "classesDir": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/.bloop/root/scala-3/classes",
         "resources": [
-            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/src/main/resources",
-            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/target/scala-3.0.1/resource_managed/main"
+            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/src/main/resources",
+            "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/target/scala-3.0.1/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -74,7 +74,7 @@
                 "/home/karl/.cache/coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr-runtime/3.5.1/antlr-runtime-3.5.1.jar",
                 "/home/karl/.cache/coursier/v1/https/repo1.maven.org/maven2/org/antlr/ST4/4.0.7/ST4-4.0.7.jar"
             ],
-            "analysis": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_3.zip",
+            "analysis": "/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_3.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -138,7 +138,7 @@
             "config": {
                 "home": "/home/karl/.jabba/jdk/adopt@1.11.0-11",
                 "options": [
-                    "-Duser.dir=/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/testscala3"
+                    "-Duser.dir=/home/karl/Dev/test.LAB/learn.scala/learn/example.codes/playWithScala3"
                 ]
             },
             "mainClass": [
